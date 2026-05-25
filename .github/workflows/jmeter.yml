@@ -32,7 +32,7 @@ jobs:
           mkdir -p results reports
 
           ./jmeter/bin/jmeter -n \
-          -t test-plans/basic_load_test.jmx \
+          -t test-plans/dynamic_content.jmx \
           -l results/results.jtl \
           -e \
           -o reports/html-report

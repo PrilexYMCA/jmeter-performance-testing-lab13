@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dc5135fc-1d80-4658-b98e-1ddcca3515d0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/test-data/data.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.github/workflows/jmeter.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/jmeter.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/jmeter.log" beforeDir="false" afterPath="$PROJECT_DIR$/jmeter.log" afterDir="false" />

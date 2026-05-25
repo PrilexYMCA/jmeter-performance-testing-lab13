@@ -4,29 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dc5135fc-1d80-4658-b98e-1ddcca3515d0" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/jmeter.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/jmeter.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.github/workflows/tests.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/YAPZT_Lab11.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/YAPZT_Lab12.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/13e19c5d-ebb7-4a9b-814a-301704929bd9-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/916ae39e-c8db-487b-a343-3aad155828d8-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/fd683b49-9b88-454d-9fbf-5d78f80579e0-attachment.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/conftest.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pytest.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-data/users.csv" beforeDir="false" afterPath="$PROJECT_DIR$/test-data/users.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_ui.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_alerts.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_checkboxes.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_home.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_login.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_screenshot.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_windows.py" beforeDir="false" />
-    </list>
+    <list default="true" id="dc5135fc-1d80-4658-b98e-1ddcca3515d0" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
